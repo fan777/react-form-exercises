@@ -6,7 +6,10 @@ const BoxList = () => {
   const [boxes, setBoxes] = useState([]);
 
 
-
+  return (
+    <div>
+      <NewBoxForm />
+    </div>)
 
 }
 

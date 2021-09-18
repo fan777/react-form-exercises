@@ -1,4 +1,4 @@
-import "./Box.css";
+// import "./Box.css";
 
 const Box = () => {
   return <div></div>
